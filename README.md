@@ -3,7 +3,7 @@ spring-reference-ebook
 
 Conversion of the official Spring Framework Reference to epub, mobi and azw3.
 
-Suitable for reading using e-ink devices such as the Kindle or the Sony PRS line.
+Suitable for reading using e-ink devices such as the Kindle or the Sony PRS product lines.
 
 
 ## Developement
