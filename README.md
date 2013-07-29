@@ -6,8 +6,26 @@ Conversion of the official Spring Framework Reference to epub, mobi and azw3.
 Suitable for reading using e-ink devices such as the Kindle or the Sony PRS product lines.
 
 
-## Developement
-Created with [Sigil](http://code.google.com/p/sigil/) as epub, using the official documentation available at [springsource](http://static.springsource.org/spring/docs/3.2.x/spring-framework-reference/htmlsingle/).
+## Changes
+### From 3.2.2.RELEASE to 3.2.3.RELEASE
+
+#### 11.3.6 Spring MVC Test Framework
+
+- Changed *example of a test requesting account information in JSON format*.
+
+#### 14.2 Using the JDBC core classes to control basic JDBC processing and error handling
+
+- Changed examples from `jdbcTemplate.queryForInt` to `jdbcTemplate.queryForObject`.
+- Removed cast to `(String)` in the `jdbcTemplate.queryForObject` example.
+
+
+## Older versions
+
+You can download older versions of these docs on the [releases](https://github.com/regueiro/spring-reference-ebook/releases) page.
+
+
+## Development
+Created with [Sigil](http://code.google.com/p/sigil/) as epub, using the official documentation available at [SpringSource](http://static.springsource.org/spring/docs/).
 
 Converted to azw3 and mobi using [Calibre](http://calibre-ebook.com/).
 
