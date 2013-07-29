@@ -21,7 +21,7 @@ Suitable for reading using e-ink devices such as the Kindle or the Sony PRS prod
 
 ## Older versions
 
-You can download older versions of these docs on the [releases](https://github.com/regueiro/spring-reference-ebook/releases) page.
+You can download older versions of these docs at the [releases](https://github.com/regueiro/spring-reference-ebook/releases) page.
 
 
 ## Development
