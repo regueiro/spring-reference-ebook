@@ -8,6 +8,11 @@ Suitable for reading using e-ink devices such as the Kindle or the Sony PRS prod
 
 ## Changes
 
+### From 3.2.5.RELEASE to 3.2.6.RELEASE
+
+No changes.
+
+
 ### From 3.2.4.RELEASE to 3.2.5.RELEASE
 
 #### 14.7.4 Handling complex types for stored procedure calls
