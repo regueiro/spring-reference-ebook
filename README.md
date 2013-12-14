@@ -8,6 +8,11 @@ Suitable for reading using e-ink devices such as the Kindle or the Sony PRS prod
 
 ## Changes
 
+### From 3.2.5.RELEASE to 4.0.0.RELEASE
+
+Too many changes to list here.
+
+
 ### From 3.2.5.RELEASE to 3.2.6.RELEASE
 
 No changes.
