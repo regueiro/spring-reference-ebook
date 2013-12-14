@@ -7,6 +7,20 @@ Suitable for reading using e-ink devices such as the Kindle or the Sony PRS prod
 
 
 ## Changes
+
+### From 3.2.3.RELEASE to 3.2.4.RELEASE
+
+#### 12.5.6 Using @Transactional
+
+- Table 12.3. @Transactional properties:
+	- Changed `rollbackForClassname` to `rollbackForClassName`.
+	- Changed `noRollbackForClassname` to `noRollbackForClassName`.
+
+#### 14.2.1 JdbcTemplate
+
+- Updating (INSERT/UPDATE/DELETE) with jdbcTemplate: Changed `"update t_actor set = ? where id = ?",` to `"update t_actor set last_name = ? where id = ?",`.
+
+
 ### From 3.2.2.RELEASE to 3.2.3.RELEASE
 
 #### 11.3.6 Spring MVC Test Framework
