@@ -8,6 +8,21 @@ Suitable for reading using e-ink devices such as the Kindle or the Sony PRS prod
 
 ## Changes
 
+### From 3.2.4.RELEASE to 3.2.5.RELEASE
+
+#### 14.7.4 Handling complex types for stored procedure calls
+
+- Corrected the examples.
+
+#### 16.9.1 XStreamMarshaller
+
+- Added some more text to the warning.
+
+#### 17.11.3 Handling Standard Spring MVC Exceptions
+
+- Corrected typo: Changed `ContentNeogitatingViewResolver` to `ContentNegotiatingViewResolver`.
+
+
 ### From 3.2.3.RELEASE to 3.2.4.RELEASE
 
 #### 12.5.6 Using @Transactional
