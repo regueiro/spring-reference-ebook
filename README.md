@@ -8,6 +8,25 @@ Suitable for reading using e-ink devices such as the Kindle or the Sony PRS prod
 
 ## Changes
 
+### From 4.0.0.RELEASE to 4.0.1.RELEASE
+
+#### 4.4.2 Dependencies and configuration in detail
+
+- Added note regarding the removal of the local attribute on the ref element.
+
+#### 9.9.2 Using metadata-driven auto-proxying
+
+- Updated the last example.
+
+#### 10.3.5 Integration Testing
+
+- Updated examples adding one more configuration.
+
+#### Other
+
+- Added section **20.2.5: Configuring the WebSocket Engine**.
+- Corrected typos.
+
 ### From 3.2.5.RELEASE to 4.0.0.RELEASE
 
 Too many changes to list here.
