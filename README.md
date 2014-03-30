@@ -8,6 +8,22 @@ Suitable for reading using e-ink devices such as the Kindle or the Sony PRS prod
 
 ## Changes
 
+### From 4.0.1.RELEASE to 4.0.2.RELEASE
+
+#### 16.3.2 Mapping Requests With @RequestMapping
+
+- Removed tip: @RequestMapping On Interface Methods.
+- New section @Controller's and AOP Proxying.
+
+#### 16.3.3 Defining @RequestMapping handler methods
+
+- Added org.springframework.http.HttpMethod for the HTTP request method. as a supported method argument type.
+- Removed note: When using controller interfaces...
+
+#### Other
+
+- Some small changes in formatting and minor corrections.
+
 ### From 4.0.0.RELEASE to 4.0.1.RELEASE
 
 #### 4.4.2 Dependencies and configuration in detail
