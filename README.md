@@ -3,8 +3,13 @@ spring-reference-ebook
 
 Conversion of the official Spring Framework Reference to epub, mobi and azw3.
 
-Suitable for reading using e-ink devices such as the Kindle or the Sony PRS product lines.
+Since the release of the official epub, _no more updates will be done to this project_.
 
+## Official epub now available
+
+Starting from 4.1RC2, **Pivotal is releasing the Spring Reference in epub format**.
+
+You can get the current 4.1 version of the docs at http://docs.spring.io/spring/docs/4.1.x/spring-framework-reference/
 
 ## Changes
 
