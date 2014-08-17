@@ -3,7 +3,7 @@ spring-reference-ebook
 
 Conversion of the official Spring Framework Reference to epub, mobi and azw3.
 
-Since the release of the official epub, _no more updates will be done to this project_.
+Since the release of the official epub, __no more updates will be done to this project__.
 
 ## Official epub now available
 
